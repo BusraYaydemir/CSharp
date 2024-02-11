@@ -1,0 +1,7 @@
+C:\Users\Zeno\Documents\GitHub\CSharp\CSharp\D1_TypesAndVariables\bin\Debug\D1_TypesAndVariables.exe.config
+C:\Users\Zeno\Documents\GitHub\CSharp\CSharp\D1_TypesAndVariables\bin\Debug\D1_TypesAndVariables.exe
+C:\Users\Zeno\Documents\GitHub\CSharp\CSharp\D1_TypesAndVariables\bin\Debug\D1_TypesAndVariables.pdb
+C:\Users\Zeno\Documents\GitHub\CSharp\CSharp\D1_TypesAndVariables\obj\Debug\D1_TypesAndVariables.csproj.AssemblyReference.cache
+C:\Users\Zeno\Documents\GitHub\CSharp\CSharp\D1_TypesAndVariables\obj\Debug\D1_TypesAndVariables.csproj.CoreCompileInputs.cache
+C:\Users\Zeno\Documents\GitHub\CSharp\CSharp\D1_TypesAndVariables\obj\Debug\D1_TypesAndVariables.exe
+C:\Users\Zeno\Documents\GitHub\CSharp\CSharp\D1_TypesAndVariables\obj\Debug\D1_TypesAndVariables.pdb
