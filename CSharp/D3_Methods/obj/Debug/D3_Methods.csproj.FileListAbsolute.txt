@@ -1,0 +1,7 @@
+C:\Users\Zeno\Documents\GitHub\CSharp\CSharp\D3_Methods\bin\Debug\D3_Methods.exe.config
+C:\Users\Zeno\Documents\GitHub\CSharp\CSharp\D3_Methods\bin\Debug\D3_Methods.exe
+C:\Users\Zeno\Documents\GitHub\CSharp\CSharp\D3_Methods\bin\Debug\D3_Methods.pdb
+C:\Users\Zeno\Documents\GitHub\CSharp\CSharp\D3_Methods\obj\Debug\D3_Methods.csproj.AssemblyReference.cache
+C:\Users\Zeno\Documents\GitHub\CSharp\CSharp\D3_Methods\obj\Debug\D3_Methods.csproj.CoreCompileInputs.cache
+C:\Users\Zeno\Documents\GitHub\CSharp\CSharp\D3_Methods\obj\Debug\D3_Methods.exe
+C:\Users\Zeno\Documents\GitHub\CSharp\CSharp\D3_Methods\obj\Debug\D3_Methods.pdb
