@@ -1,0 +1,7 @@
+C:\Users\Zeno\Documents\GitHub\CSharp\CSharp\D4_Arrays\bin\Debug\D4_Arrays.exe.config
+C:\Users\Zeno\Documents\GitHub\CSharp\CSharp\D4_Arrays\bin\Debug\D4_Arrays.exe
+C:\Users\Zeno\Documents\GitHub\CSharp\CSharp\D4_Arrays\bin\Debug\D4_Arrays.pdb
+C:\Users\Zeno\Documents\GitHub\CSharp\CSharp\D4_Arrays\obj\Debug\D4_Arrays.csproj.AssemblyReference.cache
+C:\Users\Zeno\Documents\GitHub\CSharp\CSharp\D4_Arrays\obj\Debug\D4_Arrays.csproj.CoreCompileInputs.cache
+C:\Users\Zeno\Documents\GitHub\CSharp\CSharp\D4_Arrays\obj\Debug\D4_Arrays.exe
+C:\Users\Zeno\Documents\GitHub\CSharp\CSharp\D4_Arrays\obj\Debug\D4_Arrays.pdb
