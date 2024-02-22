@@ -1,0 +1,7 @@
+C:\Users\Zeno\Documents\GitHub\CSharp\CSharp\D6_Strings\bin\Debug\D6_Strings.exe.config
+C:\Users\Zeno\Documents\GitHub\CSharp\CSharp\D6_Strings\bin\Debug\D6_Strings.exe
+C:\Users\Zeno\Documents\GitHub\CSharp\CSharp\D6_Strings\bin\Debug\D6_Strings.pdb
+C:\Users\Zeno\Documents\GitHub\CSharp\CSharp\D6_Strings\obj\Debug\D6_Strings.csproj.AssemblyReference.cache
+C:\Users\Zeno\Documents\GitHub\CSharp\CSharp\D6_Strings\obj\Debug\D6_Strings.csproj.CoreCompileInputs.cache
+C:\Users\Zeno\Documents\GitHub\CSharp\CSharp\D6_Strings\obj\Debug\D6_Strings.exe
+C:\Users\Zeno\Documents\GitHub\CSharp\CSharp\D6_Strings\obj\Debug\D6_Strings.pdb
