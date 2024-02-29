@@ -1,0 +1,10 @@
+C:\Users\Zeno\Documents\GitHub\CSharp\CSharp\D8_RecapDemo\obj\Debug\D8_RecapDemo.csproj.AssemblyReference.cache
+C:\Users\Zeno\Documents\GitHub\CSharp\CSharp\D8_RecapDemo\obj\Debug\D8_RecapDemo.Form1.resources
+C:\Users\Zeno\Documents\GitHub\CSharp\CSharp\D8_RecapDemo\obj\Debug\D8_RecapDemo.Properties.Resources.resources
+C:\Users\Zeno\Documents\GitHub\CSharp\CSharp\D8_RecapDemo\obj\Debug\D8_RecapDemo.csproj.GenerateResource.cache
+C:\Users\Zeno\Documents\GitHub\CSharp\CSharp\D8_RecapDemo\obj\Debug\D8_RecapDemo.csproj.CoreCompileInputs.cache
+C:\Users\Zeno\Documents\GitHub\CSharp\CSharp\D8_RecapDemo\bin\Debug\D8_RecapDemo.exe.config
+C:\Users\Zeno\Documents\GitHub\CSharp\CSharp\D8_RecapDemo\bin\Debug\D8_RecapDemo.exe
+C:\Users\Zeno\Documents\GitHub\CSharp\CSharp\D8_RecapDemo\bin\Debug\D8_RecapDemo.pdb
+C:\Users\Zeno\Documents\GitHub\CSharp\CSharp\D8_RecapDemo\obj\Debug\D8_RecapDemo.exe
+C:\Users\Zeno\Documents\GitHub\CSharp\CSharp\D8_RecapDemo\obj\Debug\D8_RecapDemo.pdb
