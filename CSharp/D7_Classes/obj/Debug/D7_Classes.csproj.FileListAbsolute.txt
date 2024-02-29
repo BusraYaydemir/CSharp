@@ -1,0 +1,7 @@
+C:\Users\Zeno\Documents\GitHub\CSharp\CSharp\D7_Classes\bin\Debug\D7_Classes.exe.config
+C:\Users\Zeno\Documents\GitHub\CSharp\CSharp\D7_Classes\bin\Debug\D7_Classes.exe
+C:\Users\Zeno\Documents\GitHub\CSharp\CSharp\D7_Classes\bin\Debug\D7_Classes.pdb
+C:\Users\Zeno\Documents\GitHub\CSharp\CSharp\D7_Classes\obj\Debug\D7_Classes.csproj.AssemblyReference.cache
+C:\Users\Zeno\Documents\GitHub\CSharp\CSharp\D7_Classes\obj\Debug\D7_Classes.csproj.CoreCompileInputs.cache
+C:\Users\Zeno\Documents\GitHub\CSharp\CSharp\D7_Classes\obj\Debug\D7_Classes.exe
+C:\Users\Zeno\Documents\GitHub\CSharp\CSharp\D7_Classes\obj\Debug\D7_Classes.pdb
