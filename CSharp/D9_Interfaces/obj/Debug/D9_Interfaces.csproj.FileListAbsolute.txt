@@ -1,0 +1,7 @@
+C:\Users\Zeno\Documents\GitHub\CSharp\CSharp\D9_Interfaces\bin\Debug\D9_Interfaces.exe.config
+C:\Users\Zeno\Documents\GitHub\CSharp\CSharp\D9_Interfaces\bin\Debug\D9_Interfaces.exe
+C:\Users\Zeno\Documents\GitHub\CSharp\CSharp\D9_Interfaces\bin\Debug\D9_Interfaces.pdb
+C:\Users\Zeno\Documents\GitHub\CSharp\CSharp\D9_Interfaces\obj\Debug\D9_Interfaces.csproj.AssemblyReference.cache
+C:\Users\Zeno\Documents\GitHub\CSharp\CSharp\D9_Interfaces\obj\Debug\D9_Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\Zeno\Documents\GitHub\CSharp\CSharp\D9_Interfaces\obj\Debug\D9_Interfaces.exe
+C:\Users\Zeno\Documents\GitHub\CSharp\CSharp\D9_Interfaces\obj\Debug\D9_Interfaces.pdb
