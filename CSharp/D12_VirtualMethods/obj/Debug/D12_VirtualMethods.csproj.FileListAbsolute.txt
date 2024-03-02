@@ -1,0 +1,7 @@
+C:\Users\Zeno\Documents\GitHub\CSharp\CSharp\D12_VirtualMethods\bin\Debug\D12_VirtualMethods.exe.config
+C:\Users\Zeno\Documents\GitHub\CSharp\CSharp\D12_VirtualMethods\bin\Debug\D12_VirtualMethods.exe
+C:\Users\Zeno\Documents\GitHub\CSharp\CSharp\D12_VirtualMethods\bin\Debug\D12_VirtualMethods.pdb
+C:\Users\Zeno\Documents\GitHub\CSharp\CSharp\D12_VirtualMethods\obj\Debug\D12_VirtualMethods.csproj.AssemblyReference.cache
+C:\Users\Zeno\Documents\GitHub\CSharp\CSharp\D12_VirtualMethods\obj\Debug\D12_VirtualMethods.csproj.CoreCompileInputs.cache
+C:\Users\Zeno\Documents\GitHub\CSharp\CSharp\D12_VirtualMethods\obj\Debug\D12_VirtualMethods.exe
+C:\Users\Zeno\Documents\GitHub\CSharp\CSharp\D12_VirtualMethods\obj\Debug\D12_VirtualMethods.pdb
