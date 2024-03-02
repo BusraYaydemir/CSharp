@@ -1,0 +1,7 @@
+C:\Users\Zeno\Documents\GitHub\CSharp\CSharp\D13_AbstractClasses\bin\Debug\D13_AbstractClasses.exe.config
+C:\Users\Zeno\Documents\GitHub\CSharp\CSharp\D13_AbstractClasses\bin\Debug\D13_AbstractClasses.exe
+C:\Users\Zeno\Documents\GitHub\CSharp\CSharp\D13_AbstractClasses\bin\Debug\D13_AbstractClasses.pdb
+C:\Users\Zeno\Documents\GitHub\CSharp\CSharp\D13_AbstractClasses\obj\Debug\D13_AbstractClasses.csproj.AssemblyReference.cache
+C:\Users\Zeno\Documents\GitHub\CSharp\CSharp\D13_AbstractClasses\obj\Debug\D13_AbstractClasses.csproj.CoreCompileInputs.cache
+C:\Users\Zeno\Documents\GitHub\CSharp\CSharp\D13_AbstractClasses\obj\Debug\D13_AbstractClasses.exe
+C:\Users\Zeno\Documents\GitHub\CSharp\CSharp\D13_AbstractClasses\obj\Debug\D13_AbstractClasses.pdb
