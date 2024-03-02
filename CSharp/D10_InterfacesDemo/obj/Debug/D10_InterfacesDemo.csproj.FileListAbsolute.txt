@@ -1,0 +1,7 @@
+C:\Users\Zeno\Documents\GitHub\CSharp\CSharp\D10_InterfacesDemo\bin\Debug\D10_InterfacesDemo.exe.config
+C:\Users\Zeno\Documents\GitHub\CSharp\CSharp\D10_InterfacesDemo\bin\Debug\D10_InterfacesDemo.exe
+C:\Users\Zeno\Documents\GitHub\CSharp\CSharp\D10_InterfacesDemo\bin\Debug\D10_InterfacesDemo.pdb
+C:\Users\Zeno\Documents\GitHub\CSharp\CSharp\D10_InterfacesDemo\obj\Debug\D10_InterfacesDemo.csproj.AssemblyReference.cache
+C:\Users\Zeno\Documents\GitHub\CSharp\CSharp\D10_InterfacesDemo\obj\Debug\D10_InterfacesDemo.csproj.CoreCompileInputs.cache
+C:\Users\Zeno\Documents\GitHub\CSharp\CSharp\D10_InterfacesDemo\obj\Debug\D10_InterfacesDemo.exe
+C:\Users\Zeno\Documents\GitHub\CSharp\CSharp\D10_InterfacesDemo\obj\Debug\D10_InterfacesDemo.pdb
