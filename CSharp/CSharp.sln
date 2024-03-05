@@ -29,6 +29,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "D12_VirtualMethods", "D12_V
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "D13_AbstractClasses", "D13_AbstractClasses\D13_AbstractClasses.csproj", "{38214378-3512-4FEA-8E47-B809FC4325E2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "D14_RecapDemo", "D14_RecapDemo1\D14_RecapDemo.csproj", "{AF9FDF14-0BEB-4E32-8A83-55AB8C675D05}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +89,10 @@ Global
 		{38214378-3512-4FEA-8E47-B809FC4325E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{38214378-3512-4FEA-8E47-B809FC4325E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{38214378-3512-4FEA-8E47-B809FC4325E2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AF9FDF14-0BEB-4E32-8A83-55AB8C675D05}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF9FDF14-0BEB-4E32-8A83-55AB8C675D05}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF9FDF14-0BEB-4E32-8A83-55AB8C675D05}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF9FDF14-0BEB-4E32-8A83-55AB8C675D05}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
