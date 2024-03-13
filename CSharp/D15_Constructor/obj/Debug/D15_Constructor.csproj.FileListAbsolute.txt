@@ -1,0 +1,7 @@
+C:\Users\Zeno\Documents\GitHub\CSharp\CSharp\D15_Constructor\bin\Debug\D15_Constructor.exe.config
+C:\Users\Zeno\Documents\GitHub\CSharp\CSharp\D15_Constructor\bin\Debug\D15_Constructor.exe
+C:\Users\Zeno\Documents\GitHub\CSharp\CSharp\D15_Constructor\bin\Debug\D15_Constructor.pdb
+C:\Users\Zeno\Documents\GitHub\CSharp\CSharp\D15_Constructor\obj\Debug\D15_Constructor.csproj.AssemblyReference.cache
+C:\Users\Zeno\Documents\GitHub\CSharp\CSharp\D15_Constructor\obj\Debug\D15_Constructor.csproj.CoreCompileInputs.cache
+C:\Users\Zeno\Documents\GitHub\CSharp\CSharp\D15_Constructor\obj\Debug\D15_Constructor.exe
+C:\Users\Zeno\Documents\GitHub\CSharp\CSharp\D15_Constructor\obj\Debug\D15_Constructor.pdb
