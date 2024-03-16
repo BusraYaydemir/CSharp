@@ -1,0 +1,7 @@
+C:\Users\Zeno\Documents\GitHub\CSharp\CSharp\D16_Collections\bin\Debug\D16_Collections.exe.config
+C:\Users\Zeno\Documents\GitHub\CSharp\CSharp\D16_Collections\bin\Debug\D16_Collections.exe
+C:\Users\Zeno\Documents\GitHub\CSharp\CSharp\D16_Collections\bin\Debug\D16_Collections.pdb
+C:\Users\Zeno\Documents\GitHub\CSharp\CSharp\D16_Collections\obj\Debug\D16_Collections.csproj.AssemblyReference.cache
+C:\Users\Zeno\Documents\GitHub\CSharp\CSharp\D16_Collections\obj\Debug\D16_Collections.csproj.CoreCompileInputs.cache
+C:\Users\Zeno\Documents\GitHub\CSharp\CSharp\D16_Collections\obj\Debug\D16_Collections.exe
+C:\Users\Zeno\Documents\GitHub\CSharp\CSharp\D16_Collections\obj\Debug\D16_Collections.pdb
