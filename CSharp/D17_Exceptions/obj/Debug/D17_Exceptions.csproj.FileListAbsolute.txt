@@ -1,0 +1,7 @@
+C:\Users\Zeno\Documents\GitHub\CSharp\CSharp\D17_Exceptions\bin\Debug\D17_Exceptions.exe.config
+C:\Users\Zeno\Documents\GitHub\CSharp\CSharp\D17_Exceptions\bin\Debug\D17_Exceptions.exe
+C:\Users\Zeno\Documents\GitHub\CSharp\CSharp\D17_Exceptions\bin\Debug\D17_Exceptions.pdb
+C:\Users\Zeno\Documents\GitHub\CSharp\CSharp\D17_Exceptions\obj\Debug\D17_Exceptions.csproj.AssemblyReference.cache
+C:\Users\Zeno\Documents\GitHub\CSharp\CSharp\D17_Exceptions\obj\Debug\D17_Exceptions.csproj.CoreCompileInputs.cache
+C:\Users\Zeno\Documents\GitHub\CSharp\CSharp\D17_Exceptions\obj\Debug\D17_Exceptions.exe
+C:\Users\Zeno\Documents\GitHub\CSharp\CSharp\D17_Exceptions\obj\Debug\D17_Exceptions.pdb
