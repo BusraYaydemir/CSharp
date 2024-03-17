@@ -24,8 +24,8 @@ namespace D16_Collections
         private static void Dictionary()
         {
             /*
-                         * Dictionary : includes key and value 
-                         */
+              * Dictionary : includes key and value 
+              */
 
             Dictionary<string, string> dictionary = new Dictionary<string, string>();
 
@@ -46,18 +46,18 @@ namespace D16_Collections
         private static void Methods(List<string> cities, List<Customer> customers)
         {
             /*!
-                         * Count() : gives the amount of the item 
-                         * Add() : adds an element
-                         * AddRange() : adds multiple elements for example an array.
-                         * Clear() : deletes all elemests from collection.
-                         * Contains() : returns true or false, depend on searching item is inside on the collection
-                         * IndexOf() : find the index of the item from beginning
-                         * LastIndexOf() : find the index of the item from end 
-                         * ForEach() : apply an action to all elements of the collection
-                         * Insert() : add an element to a specific index
-                         * Remove() : remove the element that finding first available item
-                         * RemoveAll() : remove all the element that finding available items
-                         */
+              * Count() : gives the amount of the item 
+              * Add() : adds an element
+              * AddRange() : adds multiple elements for example an array.
+              * Clear() : deletes all elemests from collection.
+              * Contains() : returns true or false, depend on searching item is inside on the collection
+              * IndexOf() : find the index of the item from beginning
+              * LastIndexOf() : find the index of the item from end 
+              * ForEach() : apply an action to all elements of the collection
+              * Insert() : add an element to a specific index
+              * Remove() : remove the element that finding first available item
+              * RemoveAll() : remove all the element that finding available items
+              */
 
             Console.WriteLine("\n------------------------------\n");
 
@@ -161,8 +161,8 @@ namespace D16_Collections
         private static void List(out List<string> cities, out List<Customer> customers)
         {
             /*!
-                         * List : Is a type-safe collection so Generic. So we can not add all types inside one collection, only we can add in one type.
-                         */
+              * List : Is a type-safe collection so Generic. So we can not add all types inside one collection, only we can add in one type.
+              */
 
             cities = new List<string>();
             cities.Add("İstanbul");
@@ -191,8 +191,8 @@ namespace D16_Collections
         private static void ArrayList()
         {
             /*!
-                         * ArrayList : Is not a type-safe collection. So we can add all types inside one collection.
-                         */
+              * ArrayList : Is not a type-safe collection. So we can add all types inside one collection.
+              */
 
             ArrayList arrayList = new ArrayList();
             arrayList.Add(1);
