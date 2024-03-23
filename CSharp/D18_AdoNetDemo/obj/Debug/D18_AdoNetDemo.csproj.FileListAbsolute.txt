@@ -1,0 +1,10 @@
+C:\Users\Zeno\Documents\GitHub\CSharp\CSharp\D18_AdoNetDemo\bin\Debug\D18_AdoNetDemo.exe.config
+C:\Users\Zeno\Documents\GitHub\CSharp\CSharp\D18_AdoNetDemo\bin\Debug\D18_AdoNetDemo.exe
+C:\Users\Zeno\Documents\GitHub\CSharp\CSharp\D18_AdoNetDemo\bin\Debug\D18_AdoNetDemo.pdb
+C:\Users\Zeno\Documents\GitHub\CSharp\CSharp\D18_AdoNetDemo\obj\Debug\D18_AdoNetDemo.csproj.AssemblyReference.cache
+C:\Users\Zeno\Documents\GitHub\CSharp\CSharp\D18_AdoNetDemo\obj\Debug\D18_AdoNetDemo.Form1.resources
+C:\Users\Zeno\Documents\GitHub\CSharp\CSharp\D18_AdoNetDemo\obj\Debug\D18_AdoNetDemo.Properties.Resources.resources
+C:\Users\Zeno\Documents\GitHub\CSharp\CSharp\D18_AdoNetDemo\obj\Debug\D18_AdoNetDemo.csproj.GenerateResource.cache
+C:\Users\Zeno\Documents\GitHub\CSharp\CSharp\D18_AdoNetDemo\obj\Debug\D18_AdoNetDemo.csproj.CoreCompileInputs.cache
+C:\Users\Zeno\Documents\GitHub\CSharp\CSharp\D18_AdoNetDemo\obj\Debug\D18_AdoNetDemo.exe
+C:\Users\Zeno\Documents\GitHub\CSharp\CSharp\D18_AdoNetDemo\obj\Debug\D18_AdoNetDemo.pdb
