@@ -1,0 +1,15 @@
+C:\Users\Zeno\Documents\GitHub\CSharp\CSharp\D19_EntityFeamworkDemo\bin\Debug\D19_EntityFeamworkDemo.exe.config
+C:\Users\Zeno\Documents\GitHub\CSharp\CSharp\D19_EntityFeamworkDemo\bin\Debug\D19_EntityFeamworkDemo.exe
+C:\Users\Zeno\Documents\GitHub\CSharp\CSharp\D19_EntityFeamworkDemo\bin\Debug\D19_EntityFeamworkDemo.pdb
+C:\Users\Zeno\Documents\GitHub\CSharp\CSharp\D19_EntityFeamworkDemo\bin\Debug\EntityFramework.dll
+C:\Users\Zeno\Documents\GitHub\CSharp\CSharp\D19_EntityFeamworkDemo\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Zeno\Documents\GitHub\CSharp\CSharp\D19_EntityFeamworkDemo\bin\Debug\EntityFramework.xml
+C:\Users\Zeno\Documents\GitHub\CSharp\CSharp\D19_EntityFeamworkDemo\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Zeno\Documents\GitHub\CSharp\CSharp\D19_EntityFeamworkDemo\obj\Debug\D19_EntityFeamworkDemo.csproj.AssemblyReference.cache
+C:\Users\Zeno\Documents\GitHub\CSharp\CSharp\D19_EntityFeamworkDemo\obj\Debug\D19_EntityFeamworkDemo.Form1.resources
+C:\Users\Zeno\Documents\GitHub\CSharp\CSharp\D19_EntityFeamworkDemo\obj\Debug\D19_EntityFeamworkDemo.Properties.Resources.resources
+C:\Users\Zeno\Documents\GitHub\CSharp\CSharp\D19_EntityFeamworkDemo\obj\Debug\D19_EntityFeamworkDemo.csproj.GenerateResource.cache
+C:\Users\Zeno\Documents\GitHub\CSharp\CSharp\D19_EntityFeamworkDemo\obj\Debug\D19_EntityFeamworkDemo.csproj.CoreCompileInputs.cache
+C:\Users\Zeno\Documents\GitHub\CSharp\CSharp\D19_EntityFeamworkDemo\obj\Debug\D19_EntityFeamworkDemo.csproj.CopyComplete
+C:\Users\Zeno\Documents\GitHub\CSharp\CSharp\D19_EntityFeamworkDemo\obj\Debug\D19_EntityFeamworkDemo.exe
+C:\Users\Zeno\Documents\GitHub\CSharp\CSharp\D19_EntityFeamworkDemo\obj\Debug\D19_EntityFeamworkDemo.pdb
