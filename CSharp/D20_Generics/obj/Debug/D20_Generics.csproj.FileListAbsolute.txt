@@ -1,0 +1,7 @@
+C:\Users\Zeno\Documents\GitHub\CSharp\CSharp\D20_Generics\bin\Debug\D20_Generics.exe.config
+C:\Users\Zeno\Documents\GitHub\CSharp\CSharp\D20_Generics\bin\Debug\D20_Generics.exe
+C:\Users\Zeno\Documents\GitHub\CSharp\CSharp\D20_Generics\bin\Debug\D20_Generics.pdb
+C:\Users\Zeno\Documents\GitHub\CSharp\CSharp\D20_Generics\obj\Debug\D20_Generics.csproj.AssemblyReference.cache
+C:\Users\Zeno\Documents\GitHub\CSharp\CSharp\D20_Generics\obj\Debug\D20_Generics.csproj.CoreCompileInputs.cache
+C:\Users\Zeno\Documents\GitHub\CSharp\CSharp\D20_Generics\obj\Debug\D20_Generics.exe
+C:\Users\Zeno\Documents\GitHub\CSharp\CSharp\D20_Generics\obj\Debug\D20_Generics.pdb
