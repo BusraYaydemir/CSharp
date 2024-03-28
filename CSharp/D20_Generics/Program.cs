@@ -40,7 +40,7 @@ namespace D20_Generics
     }
 
 
-    class Product
+    class Product : IEntity
     {
         public string Name;
     }
@@ -84,7 +84,7 @@ namespace D20_Generics
         }
     }
 
-    class Customer
+    class Customer : IEntity
     {
         public string FirstName;
     }
@@ -129,7 +129,22 @@ namespace D20_Generics
             throw new NotImplementedException();
         }
     }
-    interface IReporstory<T>
+
+    interface IEntity
+    {
+
+    }
+
+    /*todo
+     * Generic Constraints : 
+     * 
+     * class: T should be referance type
+     * struct: T should be value type
+     * interfaceName : T should be inherit in that interface, for example IEntity
+     * new() : T should be able to new() and new should be in the end of the contraints
+     */
+
+    interface IReporstory<T> where T : class, IEntity, new()
     {
         List<T> GetAll();
         T Get();
