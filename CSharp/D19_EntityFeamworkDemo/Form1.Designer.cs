@@ -46,6 +46,10 @@
             this.tbxName = new System.Windows.Forms.TextBox();
             this.lblName = new System.Windows.Forms.Label();
             this.dgwProducts = new System.Windows.Forms.DataGridView();
+            this.textSearch = new System.Windows.Forms.TextBox();
+            this.cmbSearchType = new System.Windows.Forms.ComboBox();
+            this.txtMin = new System.Windows.Forms.TextBox();
+            this.txtMax = new System.Windows.Forms.TextBox();
             this.gbxUpdate.SuspendLayout();
             this.gbxAdd.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.dgwProducts)).BeginInit();
@@ -54,7 +58,7 @@
             // btnDelete
             // 
             this.btnDelete.Font = new System.Drawing.Font("Comic Sans MS", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
-            this.btnDelete.Location = new System.Drawing.Point(571, 12);
+            this.btnDelete.Location = new System.Drawing.Point(41, 9);
             this.btnDelete.Name = "btnDelete";
             this.btnDelete.Size = new System.Drawing.Size(164, 28);
             this.btnDelete.TabIndex = 11;
@@ -221,24 +225,76 @@
             // dgwProducts
             // 
             this.dgwProducts.AutoSizeColumnsMode = System.Windows.Forms.DataGridViewAutoSizeColumnsMode.Fill;
+            this.dgwProducts.BackgroundColor = System.Drawing.SystemColors.Control;
             this.dgwProducts.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            this.dgwProducts.Location = new System.Drawing.Point(41, 47);
+            this.dgwProducts.Location = new System.Drawing.Point(41, 56);
             this.dgwProducts.Name = "dgwProducts";
-            this.dgwProducts.Size = new System.Drawing.Size(718, 128);
+            this.dgwProducts.Size = new System.Drawing.Size(718, 137);
             this.dgwProducts.TabIndex = 9;
             this.dgwProducts.CellClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dgwProducts_CellClick);
+            // 
+            // textSearch
+            // 
+            this.textSearch.Font = new System.Drawing.Font("Comic Sans MS", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
+            this.textSearch.Location = new System.Drawing.Point(571, 9);
+            this.textSearch.Multiline = true;
+            this.textSearch.Name = "textSearch";
+            this.textSearch.Size = new System.Drawing.Size(164, 26);
+            this.textSearch.TabIndex = 9;
+            this.textSearch.TextChanged += new System.EventHandler(this.textSearch_TextChanged);
+            // 
+            // cmbSearchType
+            // 
+            this.cmbSearchType.BackColor = System.Drawing.SystemColors.Control;
+            this.cmbSearchType.Font = new System.Drawing.Font("Comic Sans MS", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
+            this.cmbSearchType.FormattingEnabled = true;
+            this.cmbSearchType.Items.AddRange(new object[] {
+            "Id",
+            "Name",
+            "Unit Price",
+            "Stock Amount"});
+            this.cmbSearchType.Location = new System.Drawing.Point(436, 8);
+            this.cmbSearchType.Name = "cmbSearchType";
+            this.cmbSearchType.Size = new System.Drawing.Size(121, 27);
+            this.cmbSearchType.TabIndex = 13;
+            this.cmbSearchType.Text = "Searching Type";
+            this.cmbSearchType.SelectedIndexChanged += new System.EventHandler(this.cmbSearchType_SelectedIndexChanged);
+            // 
+            // txtMin
+            // 
+            this.txtMin.Font = new System.Drawing.Font("Comic Sans MS", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
+            this.txtMin.Location = new System.Drawing.Point(571, 9);
+            this.txtMin.Multiline = true;
+            this.txtMin.Name = "txtMin";
+            this.txtMin.Size = new System.Drawing.Size(78, 26);
+            this.txtMin.TabIndex = 14;
+            this.txtMin.TextChanged += new System.EventHandler(this.txtMin_TextChanged);
+            // 
+            // txtMax
+            // 
+            this.txtMax.Font = new System.Drawing.Font("Comic Sans MS", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
+            this.txtMax.Location = new System.Drawing.Point(655, 9);
+            this.txtMax.Multiline = true;
+            this.txtMax.Name = "txtMax";
+            this.txtMax.Size = new System.Drawing.Size(80, 26);
+            this.txtMax.TabIndex = 15;
+            this.txtMax.TextChanged += new System.EventHandler(this.txtMax_TextChanged);
             // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
+            this.Controls.Add(this.txtMax);
+            this.Controls.Add(this.txtMin);
+            this.Controls.Add(this.cmbSearchType);
+            this.Controls.Add(this.textSearch);
             this.Controls.Add(this.btnDelete);
             this.Controls.Add(this.gbxUpdate);
             this.Controls.Add(this.gbxAdd);
             this.Controls.Add(this.dgwProducts);
             this.Name = "Form1";
-            this.Text = "Form1";
+            this.Text = "Product Managment System";
             this.Load += new System.EventHandler(this.Form1_Load);
             this.gbxUpdate.ResumeLayout(false);
             this.gbxUpdate.PerformLayout();
@@ -246,6 +302,7 @@
             this.gbxAdd.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)(this.dgwProducts)).EndInit();
             this.ResumeLayout(false);
+            this.PerformLayout();
 
         }
 
@@ -269,6 +326,10 @@
         private System.Windows.Forms.TextBox tbxName;
         private System.Windows.Forms.Label lblName;
         private System.Windows.Forms.DataGridView dgwProducts;
+        private System.Windows.Forms.TextBox textSearch;
+        private System.Windows.Forms.ComboBox cmbSearchType;
+        private System.Windows.Forms.TextBox txtMin;
+        private System.Windows.Forms.TextBox txtMax;
     }
 }
 
