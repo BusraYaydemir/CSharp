@@ -1,0 +1,7 @@
+C:\Users\Zeno\Documents\GitHub\CSharp\CSharp\D21_Attributes\bin\Debug\D21_Attributes.exe.config
+C:\Users\Zeno\Documents\GitHub\CSharp\CSharp\D21_Attributes\bin\Debug\D21_Attributes.exe
+C:\Users\Zeno\Documents\GitHub\CSharp\CSharp\D21_Attributes\bin\Debug\D21_Attributes.pdb
+C:\Users\Zeno\Documents\GitHub\CSharp\CSharp\D21_Attributes\obj\Debug\D21_Attributes.csproj.AssemblyReference.cache
+C:\Users\Zeno\Documents\GitHub\CSharp\CSharp\D21_Attributes\obj\Debug\D21_Attributes.csproj.CoreCompileInputs.cache
+C:\Users\Zeno\Documents\GitHub\CSharp\CSharp\D21_Attributes\obj\Debug\D21_Attributes.exe
+C:\Users\Zeno\Documents\GitHub\CSharp\CSharp\D21_Attributes\obj\Debug\D21_Attributes.pdb
