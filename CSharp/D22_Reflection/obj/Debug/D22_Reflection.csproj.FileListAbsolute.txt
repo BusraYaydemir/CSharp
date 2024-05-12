@@ -1,0 +1,7 @@
+C:\Users\Zeno\Documents\GitHub\CSharp\CSharp\D22_Reflection\bin\Debug\D22_Reflection.exe.config
+C:\Users\Zeno\Documents\GitHub\CSharp\CSharp\D22_Reflection\bin\Debug\D22_Reflection.exe
+C:\Users\Zeno\Documents\GitHub\CSharp\CSharp\D22_Reflection\bin\Debug\D22_Reflection.pdb
+C:\Users\Zeno\Documents\GitHub\CSharp\CSharp\D22_Reflection\obj\Debug\D22_Reflection.csproj.AssemblyReference.cache
+C:\Users\Zeno\Documents\GitHub\CSharp\CSharp\D22_Reflection\obj\Debug\D22_Reflection.csproj.CoreCompileInputs.cache
+C:\Users\Zeno\Documents\GitHub\CSharp\CSharp\D22_Reflection\obj\Debug\D22_Reflection.exe
+C:\Users\Zeno\Documents\GitHub\CSharp\CSharp\D22_Reflection\obj\Debug\D22_Reflection.pdb
