@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Zeno\\Documents\\GitHub\\CSharp\\CSharp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DA1E5B42-99EF-42D4-89D2-C2247C4FD074}|D23_Delegates\\D23_Delegates.csproj|c:\\users\\zeno\\documents\\github\\csharp\\csharp\\d23_delegates\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DA1E5B42-99EF-42D4-89D2-C2247C4FD074}|D23_Delegates\\D23_Delegates.csproj|solutionrelative:d23_delegates\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6CD12F0C-2E8E-4D56-832A-32A849E3D436}|D25_Events\\D25_Events.csproj|c:\\users\\zeno\\documents\\github\\csharp\\csharp\\d25_events\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CD12F0C-2E8E-4D56-832A-32A849E3D436}|D25_Events\\D25_Events.csproj|solutionrelative:d25_events\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D154B331-1A19-430E-B1AC-88D39D152341}|D24_InterviewQuestions\\D24_InterviewQuestions.csproj|c:\\users\\zeno\\documents\\github\\csharp\\csharp\\d24_interviewquestions\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D154B331-1A19-430E-B1AC-88D39D152341}|D24_InterviewQuestions\\D24_InterviewQuestions.csproj|solutionrelative:d24_interviewquestions\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6CD12F0C-2E8E-4D56-832A-32A849E3D436}|D25_Events\\D25_Events.csproj|c:\\users\\zeno\\documents\\github\\csharp\\csharp\\d25_events\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CD12F0C-2E8E-4D56-832A-32A849E3D436}|D25_Events\\D25_Events.csproj|solutionrelative:d25_events\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 20,
+          "SelectedChildIndex": 21,
           "Children": [
             {
               "$type": "Bookmark",
@@ -102,28 +102,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Zeno\\Documents\\GitHub\\CSharp\\CSharp\\D23_Delegates\\Program.cs",
-              "RelativeDocumentMoniker": "D23_Delegates\\Program.cs",
-              "ToolTip": "C:\\Users\\Zeno\\Documents\\GitHub\\CSharp\\CSharp\\D23_Delegates\\Program.cs",
-              "RelativeToolTip": "D23_Delegates\\Program.cs",
-              "ViewState": "AQIAAEoAAAAAAAAAAAAIwFUAAAAfAAAA",
+              "DocumentIndex": 1,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Zeno\\Documents\\GitHub\\CSharp\\CSharp\\D25_Events\\Product.cs",
+              "RelativeDocumentMoniker": "D25_Events\\Product.cs",
+              "ToolTip": "C:\\Users\\Zeno\\Documents\\GitHub\\CSharp\\CSharp\\D25_Events\\Product.cs",
+              "RelativeToolTip": "D25_Events\\Product.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABEAAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-31T21:02:21.291Z",
+              "WhenOpened": "2024-08-31T22:06:30.537Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Zeno\\Documents\\GitHub\\CSharp\\CSharp\\D24_InterviewQuestions\\Program.cs",
-              "RelativeDocumentMoniker": "D24_InterviewQuestions\\Program.cs",
-              "ToolTip": "C:\\Users\\Zeno\\Documents\\GitHub\\CSharp\\CSharp\\D24_InterviewQuestions\\Program.cs",
-              "RelativeToolTip": "D24_InterviewQuestions\\Program.cs",
-              "ViewState": "AQIAAHkAAAAAAAAAAAAkwGEAAABAAAAA",
+              "DocumentMoniker": "C:\\Users\\Zeno\\Documents\\GitHub\\CSharp\\CSharp\\D25_Events\\Program.cs",
+              "RelativeDocumentMoniker": "D25_Events\\Program.cs",
+              "ToolTip": "C:\\Users\\Zeno\\Documents\\GitHub\\CSharp\\CSharp\\D25_Events\\Program.cs*",
+              "RelativeToolTip": "D25_Events\\Program.cs*",
+              "ViewState": "AQIAABMAAAAAAAAAAAAgwB0AAAA3AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-03T20:59:02.369Z",
+              "WhenOpened": "2024-08-31T22:05:49.279Z",
               "EditorCaption": ""
             }
           ]

@@ -1,0 +1,7 @@
+C:\Users\Zeno\Documents\GitHub\CSharp\CSharp\D25_Events\bin\Debug\D25_Events.exe.config
+C:\Users\Zeno\Documents\GitHub\CSharp\CSharp\D25_Events\bin\Debug\D25_Events.exe
+C:\Users\Zeno\Documents\GitHub\CSharp\CSharp\D25_Events\bin\Debug\D25_Events.pdb
+C:\Users\Zeno\Documents\GitHub\CSharp\CSharp\D25_Events\obj\Debug\D25_Events.csproj.AssemblyReference.cache
+C:\Users\Zeno\Documents\GitHub\CSharp\CSharp\D25_Events\obj\Debug\D25_Events.csproj.CoreCompileInputs.cache
+C:\Users\Zeno\Documents\GitHub\CSharp\CSharp\D25_Events\obj\Debug\D25_Events.exe
+C:\Users\Zeno\Documents\GitHub\CSharp\CSharp\D25_Events\obj\Debug\D25_Events.pdb
