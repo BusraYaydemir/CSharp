@@ -1,0 +1,7 @@
+C:\Users\Zeno\Documents\GitHub\CSharp\CSharp\D24_InterviewQuestions\bin\Debug\D24_InterviewQuestions.exe.config
+C:\Users\Zeno\Documents\GitHub\CSharp\CSharp\D24_InterviewQuestions\bin\Debug\D24_InterviewQuestions.exe
+C:\Users\Zeno\Documents\GitHub\CSharp\CSharp\D24_InterviewQuestions\bin\Debug\D24_InterviewQuestions.pdb
+C:\Users\Zeno\Documents\GitHub\CSharp\CSharp\D24_InterviewQuestions\obj\Debug\D24_InterviewQuestions.csproj.AssemblyReference.cache
+C:\Users\Zeno\Documents\GitHub\CSharp\CSharp\D24_InterviewQuestions\obj\Debug\D24_InterviewQuestions.csproj.CoreCompileInputs.cache
+C:\Users\Zeno\Documents\GitHub\CSharp\CSharp\D24_InterviewQuestions\obj\Debug\D24_InterviewQuestions.exe
+C:\Users\Zeno\Documents\GitHub\CSharp\CSharp\D24_InterviewQuestions\obj\Debug\D24_InterviewQuestions.pdb

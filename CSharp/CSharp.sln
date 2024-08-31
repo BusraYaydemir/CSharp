@@ -49,6 +49,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "D22_Reflection", "D22_Refle
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "D23_Delegates", "D23_Delegates\D23_Delegates.csproj", "{DA1E5B42-99EF-42D4-89D2-C2247C4FD074}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "D24_InterviewQuestions", "D24_InterviewQuestions\D24_InterviewQuestions.csproj", "{D154B331-1A19-430E-B1AC-88D39D152341}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -147,6 +149,10 @@ Global
 		{DA1E5B42-99EF-42D4-89D2-C2247C4FD074}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DA1E5B42-99EF-42D4-89D2-C2247C4FD074}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DA1E5B42-99EF-42D4-89D2-C2247C4FD074}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D154B331-1A19-430E-B1AC-88D39D152341}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D154B331-1A19-430E-B1AC-88D39D152341}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D154B331-1A19-430E-B1AC-88D39D152341}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D154B331-1A19-430E-B1AC-88D39D152341}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

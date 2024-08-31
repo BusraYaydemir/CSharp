@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
+using System.Threading;
 using System.Threading.Tasks;
 
 namespace D23_Delegates
@@ -62,12 +63,38 @@ namespace D23_Delegates
 
             // Example 4 - action
 
+            Console.WriteLine("\nExample 4 - State 1 : \n");
+
             HandleException(() =>
             {
                 randomMethods.DivideByZero(1);
             });
-            
+
+            // Example 5 - Func
+
+            Func<int, int, int> addFunction = Add; // Parameters int int Return int
+
+            Console.WriteLine("\nExample 4 - State 1 : \n" + addFunction(2, 4));
+
+            Func<int> generateRandomNumber = delegate () // Parameter no Return int
+            {
+                Random random = new Random();
+                return random.Next(1, 100);
+            };
+            Console.WriteLine("\nExample 4 - State 2 : \n" + generateRandomNumber());
+
+            Thread.Sleep(1000);
+
+            Func<int> generateRandomNumber2 = () => new Random().Next(1,100);
+            Console.WriteLine("\nExample 4 - State 3 : \n" + generateRandomNumber2());
+
+
             Console.ReadLine();
+        }
+
+        private static int Add(int number1, int number2)
+        {
+            return number1 + number2;
         }
 
         private static void HandleException(Action action)
