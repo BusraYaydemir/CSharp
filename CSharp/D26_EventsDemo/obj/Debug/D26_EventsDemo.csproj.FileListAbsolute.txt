@@ -1,0 +1,7 @@
+C:\Users\Zeno\Documents\GitHub\CSharp\CSharp\D26_EventsDemo\bin\Debug\D26_EventsDemo.exe.config
+C:\Users\Zeno\Documents\GitHub\CSharp\CSharp\D26_EventsDemo\bin\Debug\D26_EventsDemo.exe
+C:\Users\Zeno\Documents\GitHub\CSharp\CSharp\D26_EventsDemo\bin\Debug\D26_EventsDemo.pdb
+C:\Users\Zeno\Documents\GitHub\CSharp\CSharp\D26_EventsDemo\obj\Debug\D26_EventsDemo.csproj.AssemblyReference.cache
+C:\Users\Zeno\Documents\GitHub\CSharp\CSharp\D26_EventsDemo\obj\Debug\D26_EventsDemo.csproj.CoreCompileInputs.cache
+C:\Users\Zeno\Documents\GitHub\CSharp\CSharp\D26_EventsDemo\obj\Debug\D26_EventsDemo.exe
+C:\Users\Zeno\Documents\GitHub\CSharp\CSharp\D26_EventsDemo\obj\Debug\D26_EventsDemo.pdb

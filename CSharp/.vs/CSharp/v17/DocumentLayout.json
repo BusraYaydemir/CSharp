@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\Zeno\\Documents\\GitHub\\CSharp\\CSharp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6CD12F0C-2E8E-4D56-832A-32A849E3D436}|D25_Events\\D25_Events.csproj|c:\\users\\zeno\\documents\\github\\csharp\\csharp\\d25_events\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6CD12F0C-2E8E-4D56-832A-32A849E3D436}|D25_Events\\D25_Events.csproj|solutionrelative:d25_events\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B40879EF-5987-4CF8-8CFD-63197DE9445F}|D26_EventsDemo\\D26_EventsDemo.csproj|c:\\users\\zeno\\documents\\github\\csharp\\csharp\\d26_eventsdemo\\shoppingcard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B40879EF-5987-4CF8-8CFD-63197DE9445F}|D26_EventsDemo\\D26_EventsDemo.csproj|solutionrelative:d26_eventsdemo\\shoppingcard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6CD12F0C-2E8E-4D56-832A-32A849E3D436}|D25_Events\\D25_Events.csproj|c:\\users\\zeno\\documents\\github\\csharp\\csharp\\d25_events\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6CD12F0C-2E8E-4D56-832A-32A849E3D436}|D25_Events\\D25_Events.csproj|solutionrelative:d25_events\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B40879EF-5987-4CF8-8CFD-63197DE9445F}|D26_EventsDemo\\D26_EventsDemo.csproj|c:\\users\\zeno\\documents\\github\\csharp\\csharp\\d26_eventsdemo\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B40879EF-5987-4CF8-8CFD-63197DE9445F}|D26_EventsDemo\\D26_EventsDemo.csproj|solutionrelative:d26_eventsdemo\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B40879EF-5987-4CF8-8CFD-63197DE9445F}|D26_EventsDemo\\D26_EventsDemo.csproj|c:\\users\\zeno\\documents\\github\\csharp\\csharp\\d26_eventsdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B40879EF-5987-4CF8-8CFD-63197DE9445F}|D26_EventsDemo\\D26_EventsDemo.csproj|solutionrelative:d26_eventsdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -104,26 +108,39 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Product.cs",
-              "DocumentMoniker": "C:\\Users\\Zeno\\Documents\\GitHub\\CSharp\\CSharp\\D25_Events\\Product.cs",
-              "RelativeDocumentMoniker": "D25_Events\\Product.cs",
-              "ToolTip": "C:\\Users\\Zeno\\Documents\\GitHub\\CSharp\\CSharp\\D25_Events\\Product.cs",
-              "RelativeToolTip": "D25_Events\\Product.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABEAAAAiAAAA",
+              "DocumentMoniker": "C:\\Users\\Zeno\\Documents\\GitHub\\CSharp\\CSharp\\D26_EventsDemo\\Product.cs",
+              "RelativeDocumentMoniker": "D26_EventsDemo\\Product.cs",
+              "ToolTip": "C:\\Users\\Zeno\\Documents\\GitHub\\CSharp\\CSharp\\D26_EventsDemo\\Product.cs",
+              "RelativeToolTip": "D26_EventsDemo\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-31T22:06:30.537Z",
+              "WhenOpened": "2024-09-01T20:37:41.777Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Zeno\\Documents\\GitHub\\CSharp\\CSharp\\D25_Events\\Program.cs",
-              "RelativeDocumentMoniker": "D25_Events\\Program.cs",
-              "ToolTip": "C:\\Users\\Zeno\\Documents\\GitHub\\CSharp\\CSharp\\D25_Events\\Program.cs*",
-              "RelativeToolTip": "D25_Events\\Program.cs*",
-              "ViewState": "AQIAABMAAAAAAAAAAAAgwB0AAAA3AAAA",
+              "Title": "ShoppingCard.cs",
+              "DocumentMoniker": "C:\\Users\\Zeno\\Documents\\GitHub\\CSharp\\CSharp\\D26_EventsDemo\\ShoppingCard.cs",
+              "RelativeDocumentMoniker": "D26_EventsDemo\\ShoppingCard.cs",
+              "ToolTip": "C:\\Users\\Zeno\\Documents\\GitHub\\CSharp\\CSharp\\D26_EventsDemo\\ShoppingCard.cs*",
+              "RelativeToolTip": "D26_EventsDemo\\ShoppingCard.cs*",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAwwCoAAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-31T22:05:49.279Z",
+              "WhenOpened": "2024-09-01T20:37:44.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Zeno\\Documents\\GitHub\\CSharp\\CSharp\\D26_EventsDemo\\Program.cs",
+              "RelativeDocumentMoniker": "D26_EventsDemo\\Program.cs",
+              "ToolTip": "C:\\Users\\Zeno\\Documents\\GitHub\\CSharp\\CSharp\\D26_EventsDemo\\Program.cs",
+              "RelativeToolTip": "D26_EventsDemo\\Program.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwDUAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T20:37:43.594Z",
               "EditorCaption": ""
             }
           ]
