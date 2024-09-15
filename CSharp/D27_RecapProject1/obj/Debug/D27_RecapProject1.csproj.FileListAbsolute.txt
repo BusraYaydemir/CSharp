@@ -1,0 +1,15 @@
+C:\Users\Zeno\Documents\GitHub\CSharp\CSharp\D27_RecapProject1\bin\Debug\D27_RecapProject1.exe.config
+C:\Users\Zeno\Documents\GitHub\CSharp\CSharp\D27_RecapProject1\bin\Debug\D27_RecapProject1.exe
+C:\Users\Zeno\Documents\GitHub\CSharp\CSharp\D27_RecapProject1\bin\Debug\D27_RecapProject1.pdb
+C:\Users\Zeno\Documents\GitHub\CSharp\CSharp\D27_RecapProject1\obj\Debug\D27_RecapProject1.csproj.AssemblyReference.cache
+C:\Users\Zeno\Documents\GitHub\CSharp\CSharp\D27_RecapProject1\obj\Debug\D27_RecapProject1.Form1.resources
+C:\Users\Zeno\Documents\GitHub\CSharp\CSharp\D27_RecapProject1\obj\Debug\D27_RecapProject1.Properties.Resources.resources
+C:\Users\Zeno\Documents\GitHub\CSharp\CSharp\D27_RecapProject1\obj\Debug\D27_RecapProject1.csproj.GenerateResource.cache
+C:\Users\Zeno\Documents\GitHub\CSharp\CSharp\D27_RecapProject1\obj\Debug\D27_RecapProject1.csproj.CoreCompileInputs.cache
+C:\Users\Zeno\Documents\GitHub\CSharp\CSharp\D27_RecapProject1\obj\Debug\D27_RecapProject1.exe
+C:\Users\Zeno\Documents\GitHub\CSharp\CSharp\D27_RecapProject1\obj\Debug\D27_RecapProject1.pdb
+C:\Users\Zeno\Documents\GitHub\CSharp\CSharp\D27_RecapProject1\bin\Debug\EntityFramework.dll
+C:\Users\Zeno\Documents\GitHub\CSharp\CSharp\D27_RecapProject1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Zeno\Documents\GitHub\CSharp\CSharp\D27_RecapProject1\bin\Debug\EntityFramework.xml
+C:\Users\Zeno\Documents\GitHub\CSharp\CSharp\D27_RecapProject1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Zeno\Documents\GitHub\CSharp\CSharp\D27_RecapProject1\obj\Debug\D27_Reca.3E0FE678.Up2Date
