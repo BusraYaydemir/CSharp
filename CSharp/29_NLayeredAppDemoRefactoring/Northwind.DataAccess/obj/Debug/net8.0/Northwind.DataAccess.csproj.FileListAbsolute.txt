@@ -1,0 +1,16 @@
+C:\Users\Zeno\Documents\GitHub\CSharp\CSharp\29_NLayeredAppDemoRefactoring\Northwind.DataAccess\bin\Debug\net8.0\Northwind.DataAccess.deps.json
+C:\Users\Zeno\Documents\GitHub\CSharp\CSharp\29_NLayeredAppDemoRefactoring\Northwind.DataAccess\bin\Debug\net8.0\Northwind.DataAccess.dll
+C:\Users\Zeno\Documents\GitHub\CSharp\CSharp\29_NLayeredAppDemoRefactoring\Northwind.DataAccess\bin\Debug\net8.0\Northwind.DataAccess.pdb
+C:\Users\Zeno\Documents\GitHub\CSharp\CSharp\29_NLayeredAppDemoRefactoring\Northwind.DataAccess\bin\Debug\net8.0\Northwind.Entities.dll
+C:\Users\Zeno\Documents\GitHub\CSharp\CSharp\29_NLayeredAppDemoRefactoring\Northwind.DataAccess\bin\Debug\net8.0\Northwind.Entities.pdb
+C:\Users\Zeno\Documents\GitHub\CSharp\CSharp\29_NLayeredAppDemoRefactoring\Northwind.DataAccess\obj\Debug\net8.0\Northwind.DataAccess.csproj.AssemblyReference.cache
+C:\Users\Zeno\Documents\GitHub\CSharp\CSharp\29_NLayeredAppDemoRefactoring\Northwind.DataAccess\obj\Debug\net8.0\Northwind.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zeno\Documents\GitHub\CSharp\CSharp\29_NLayeredAppDemoRefactoring\Northwind.DataAccess\obj\Debug\net8.0\Northwind.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Zeno\Documents\GitHub\CSharp\CSharp\29_NLayeredAppDemoRefactoring\Northwind.DataAccess\obj\Debug\net8.0\Northwind.DataAccess.AssemblyInfo.cs
+C:\Users\Zeno\Documents\GitHub\CSharp\CSharp\29_NLayeredAppDemoRefactoring\Northwind.DataAccess\obj\Debug\net8.0\Northwind.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Zeno\Documents\GitHub\CSharp\CSharp\29_NLayeredAppDemoRefactoring\Northwind.DataAccess\obj\Debug\net8.0\Northwind.DataAccess.sourcelink.json
+C:\Users\Zeno\Documents\GitHub\CSharp\CSharp\29_NLayeredAppDemoRefactoring\Northwind.DataAccess\obj\Debug\net8.0\Northwin.AAEE89B5.Up2Date
+C:\Users\Zeno\Documents\GitHub\CSharp\CSharp\29_NLayeredAppDemoRefactoring\Northwind.DataAccess\obj\Debug\net8.0\Northwind.DataAccess.dll
+C:\Users\Zeno\Documents\GitHub\CSharp\CSharp\29_NLayeredAppDemoRefactoring\Northwind.DataAccess\obj\Debug\net8.0\refint\Northwind.DataAccess.dll
+C:\Users\Zeno\Documents\GitHub\CSharp\CSharp\29_NLayeredAppDemoRefactoring\Northwind.DataAccess\obj\Debug\net8.0\Northwind.DataAccess.pdb
+C:\Users\Zeno\Documents\GitHub\CSharp\CSharp\29_NLayeredAppDemoRefactoring\Northwind.DataAccess\obj\Debug\net8.0\ref\Northwind.DataAccess.dll

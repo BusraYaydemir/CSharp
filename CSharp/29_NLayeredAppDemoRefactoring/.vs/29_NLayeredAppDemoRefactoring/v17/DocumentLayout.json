@@ -1,7 +1,20 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\Zeno\\Documents\\GitHub\\CSharp\\CSharp\\29_NLayeredAppDemoRefactoring\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3F0E605E-4B9C-42F4-9640-2CD49401BA45}|Northwind.DataAccess\\Northwind.DataAccess.csproj|c:\\users\\zeno\\documents\\github\\csharp\\csharp\\29_nlayeredappdemorefactoring\\northwind.dataaccess\\concreate\\nhibarnate\\nhproductdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F0E605E-4B9C-42F4-9640-2CD49401BA45}|Northwind.DataAccess\\Northwind.DataAccess.csproj|solutionrelative:northwind.dataaccess\\concreate\\nhibarnate\\nhproductdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F0E605E-4B9C-42F4-9640-2CD49401BA45}|Northwind.DataAccess\\Northwind.DataAccess.csproj|c:\\users\\zeno\\documents\\github\\csharp\\csharp\\29_nlayeredappdemorefactoring\\northwind.dataaccess\\concreate\\entityfreamwork\\efproductdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F0E605E-4B9C-42F4-9640-2CD49401BA45}|Northwind.DataAccess\\Northwind.DataAccess.csproj|solutionrelative:northwind.dataaccess\\concreate\\entityfreamwork\\efproductdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F0E605E-4B9C-42F4-9640-2CD49401BA45}|Northwind.DataAccess\\Northwind.DataAccess.csproj|c:\\users\\zeno\\documents\\github\\csharp\\csharp\\29_nlayeredappdemorefactoring\\northwind.dataaccess\\concreate\\entityfreamwork\\efentityrepositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F0E605E-4B9C-42F4-9640-2CD49401BA45}|Northwind.DataAccess\\Northwind.DataAccess.csproj|solutionrelative:northwind.dataaccess\\concreate\\entityfreamwork\\efentityrepositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,8 +22,47 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NhProductDal.cs",
+              "DocumentMoniker": "C:\\Users\\Zeno\\Documents\\GitHub\\CSharp\\CSharp\\29_NLayeredAppDemoRefactoring\\Northwind.DataAccess\\Concreate\\NHibarnate\\NhProductDal.cs",
+              "RelativeDocumentMoniker": "Northwind.DataAccess\\Concreate\\NHibarnate\\NhProductDal.cs",
+              "ToolTip": "C:\\Users\\Zeno\\Documents\\GitHub\\CSharp\\CSharp\\29_NLayeredAppDemoRefactoring\\Northwind.DataAccess\\Concreate\\NHibarnate\\NhProductDal.cs",
+              "RelativeToolTip": "Northwind.DataAccess\\Concreate\\NHibarnate\\NhProductDal.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAACgAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T21:50:29.022Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EfProductDal.cs",
+              "DocumentMoniker": "C:\\Users\\Zeno\\Documents\\GitHub\\CSharp\\CSharp\\29_NLayeredAppDemoRefactoring\\Northwind.DataAccess\\Concreate\\EntityFreamwork\\EfProductDal.cs",
+              "RelativeDocumentMoniker": "Northwind.DataAccess\\Concreate\\EntityFreamwork\\EfProductDal.cs",
+              "ToolTip": "C:\\Users\\Zeno\\Documents\\GitHub\\CSharp\\CSharp\\29_NLayeredAppDemoRefactoring\\Northwind.DataAccess\\Concreate\\EntityFreamwork\\EfProductDal.cs",
+              "RelativeToolTip": "Northwind.DataAccess\\Concreate\\EntityFreamwork\\EfProductDal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABSAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T21:49:28.494Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EfEntityRepositoryBase.cs",
+              "DocumentMoniker": "C:\\Users\\Zeno\\Documents\\GitHub\\CSharp\\CSharp\\29_NLayeredAppDemoRefactoring\\Northwind.DataAccess\\Concreate\\EntityFreamwork\\EfEntityRepositoryBase.cs",
+              "RelativeDocumentMoniker": "Northwind.DataAccess\\Concreate\\EntityFreamwork\\EfEntityRepositoryBase.cs",
+              "ToolTip": "C:\\Users\\Zeno\\Documents\\GitHub\\CSharp\\CSharp\\29_NLayeredAppDemoRefactoring\\Northwind.DataAccess\\Concreate\\EntityFreamwork\\EfEntityRepositoryBase.cs",
+              "RelativeToolTip": "Northwind.DataAccess\\Concreate\\EntityFreamwork\\EfEntityRepositoryBase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADkAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T21:35:43.531Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"

@@ -3,30 +3,34 @@
   "WorkspaceRootPath": "C:\\Users\\Zeno\\Documents\\GitHub\\CSharp\\CSharp\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{D5E37ADF-3AA1-478D-8096-A76D82C913BE}|D19_EntityFeamworkDemo\\D19_EntityFeamworkDemo.csproj|c:\\users\\zeno\\documents\\github\\csharp\\csharp\\d19_entityfeamworkdemo\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{D5E37ADF-3AA1-478D-8096-A76D82C913BE}|D19_EntityFeamworkDemo\\D19_EntityFeamworkDemo.csproj|solutionrelative:d19_entityfeamworkdemo\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{EDD21D53-D78C-459C-AA0F-2BE7439C821B}|D27_RecapProject1\\D27_RecapProject1.csproj|c:\\users\\zeno\\documents\\github\\csharp\\csharp\\d27_recapproject1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EDD21D53-D78C-459C-AA0F-2BE7439C821B}|D27_RecapProject1\\D27_RecapProject1.csproj|solutionrelative:d27_recapproject1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EDD21D53-D78C-459C-AA0F-2BE7439C821B}|D27_RecapProject1\\D27_RecapProject1.csproj|c:\\users\\zeno\\documents\\github\\csharp\\csharp\\d27_recapproject1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{EDD21D53-D78C-459C-AA0F-2BE7439C821B}|D27_RecapProject1\\D27_RecapProject1.csproj|C:\\Users\\Zeno\\Documents\\GitHub\\CSharp\\CSharp\\d27_recapproject1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{EDD21D53-D78C-459C-AA0F-2BE7439C821B}|D27_RecapProject1\\D27_RecapProject1.csproj|solutionrelative:d27_recapproject1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EDD21D53-D78C-459C-AA0F-2BE7439C821B}|D27_RecapProject1\\D27_RecapProject1.csproj|c:\\users\\zeno\\documents\\github\\csharp\\csharp\\d27_recapproject1\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EDD21D53-D78C-459C-AA0F-2BE7439C821B}|D27_RecapProject1\\D27_RecapProject1.csproj|C:\\Users\\Zeno\\Documents\\GitHub\\CSharp\\CSharp\\d27_recapproject1\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EDD21D53-D78C-459C-AA0F-2BE7439C821B}|D27_RecapProject1\\D27_RecapProject1.csproj|solutionrelative:d27_recapproject1\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/Northwind/True/SqlTable/dbo.Categories.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EDD21D53-D78C-459C-AA0F-2BE7439C821B}|D27_RecapProject1\\D27_RecapProject1.csproj|c:\\users\\zeno\\documents\\github\\csharp\\csharp\\d27_recapproject1\\northwindcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EDD21D53-D78C-459C-AA0F-2BE7439C821B}|D27_RecapProject1\\D27_RecapProject1.csproj|C:\\Users\\Zeno\\Documents\\GitHub\\CSharp\\CSharp\\d27_recapproject1\\northwindcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EDD21D53-D78C-459C-AA0F-2BE7439C821B}|D27_RecapProject1\\D27_RecapProject1.csproj|solutionrelative:d27_recapproject1\\northwindcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EDD21D53-D78C-459C-AA0F-2BE7439C821B}|D27_RecapProject1\\D27_RecapProject1.csproj|c:\\users\\zeno\\documents\\github\\csharp\\csharp\\d27_recapproject1\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EDD21D53-D78C-459C-AA0F-2BE7439C821B}|D27_RecapProject1\\D27_RecapProject1.csproj|C:\\Users\\Zeno\\Documents\\GitHub\\CSharp\\CSharp\\d27_recapproject1\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EDD21D53-D78C-459C-AA0F-2BE7439C821B}|D27_RecapProject1\\D27_RecapProject1.csproj|solutionrelative:d27_recapproject1\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EDD21D53-D78C-459C-AA0F-2BE7439C821B}|D27_RecapProject1\\D27_RecapProject1.csproj|c:\\users\\zeno\\documents\\github\\csharp\\csharp\\d27_recapproject1\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "AbsoluteMoniker": "D:0:0:{EDD21D53-D78C-459C-AA0F-2BE7439C821B}|D27_RecapProject1\\D27_RecapProject1.csproj|C:\\Users\\Zeno\\Documents\\GitHub\\CSharp\\CSharp\\d27_recapproject1\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{EDD21D53-D78C-459C-AA0F-2BE7439C821B}|D27_RecapProject1\\D27_RecapProject1.csproj|solutionrelative:d27_recapproject1\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     }
   ],
@@ -37,7 +41,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 26,
+          "SelectedChildIndex": 20,
           "Children": [
             {
               "$type": "Bookmark",
@@ -121,17 +125,29 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "dbo.Categories [Data]",
-              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/Northwind/True/SqlTable/dbo.Categories.sql",
-              "ToolTip": "dbo.Categories [Data]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2024-09-15T15:20:51.382Z",
+              "DocumentIndex": 0,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\Zeno\\Documents\\GitHub\\CSharp\\CSharp\\D19_EntityFeamworkDemo\\App.config",
+              "RelativeDocumentMoniker": "D19_EntityFeamworkDemo\\App.config",
+              "ToolTip": "C:\\Users\\Zeno\\Documents\\GitHub\\CSharp\\CSharp\\D19_EntityFeamworkDemo\\App.config",
+              "RelativeToolTip": "D19_EntityFeamworkDemo\\App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-09-16T17:15:28.458Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
+              "Title": "dbo.Categories [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/Northwind/True/SqlTable/dbo.Categories.sql",
+              "ToolTip": "dbo.Categories [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-09-15T15:20:51.382Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Category.cs",
               "DocumentMoniker": "C:\\Users\\Zeno\\Documents\\GitHub\\CSharp\\CSharp\\D27_RecapProject1\\Entities\\Category.cs",
               "RelativeDocumentMoniker": "D27_RecapProject1\\Entities\\Category.cs",
@@ -139,24 +155,23 @@
               "RelativeToolTip": "D27_RecapProject1\\Entities\\Category.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-15T15:07:50.56Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-15T15:07:50.56Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Zeno\\Documents\\GitHub\\CSharp\\CSharp\\D27_RecapProject1\\Form1.cs",
               "RelativeDocumentMoniker": "D27_RecapProject1\\Form1.cs",
-              "ToolTip": "C:\\Users\\Zeno\\Documents\\GitHub\\CSharp\\CSharp\\D27_RecapProject1\\Form1.cs [Design]*",
-              "RelativeToolTip": "D27_RecapProject1\\Form1.cs [Design]*",
+              "ToolTip": "C:\\Users\\Zeno\\Documents\\GitHub\\CSharp\\CSharp\\D27_RecapProject1\\Form1.cs [Design]",
+              "RelativeToolTip": "D27_RecapProject1\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-15T14:51:20.647Z",
               "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "App.config",
               "DocumentMoniker": "C:\\Users\\Zeno\\Documents\\GitHub\\CSharp\\CSharp\\D27_RecapProject1\\App.config",
               "RelativeDocumentMoniker": "D27_RecapProject1\\App.config",
@@ -169,7 +184,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Product.cs",
               "DocumentMoniker": "C:\\Users\\Zeno\\Documents\\GitHub\\CSharp\\CSharp\\D27_RecapProject1\\Entities\\Product.cs",
               "RelativeDocumentMoniker": "D27_RecapProject1\\Entities\\Product.cs",
@@ -177,12 +192,11 @@
               "RelativeToolTip": "D27_RecapProject1\\Entities\\Product.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-15T12:15:29.812Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-15T12:15:29.812Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "NorthwindContext.cs",
               "DocumentMoniker": "C:\\Users\\Zeno\\Documents\\GitHub\\CSharp\\CSharp\\D27_RecapProject1\\NorthwindContext.cs",
               "RelativeDocumentMoniker": "D27_RecapProject1\\NorthwindContext.cs",
@@ -190,17 +204,16 @@
               "RelativeToolTip": "D27_RecapProject1\\NorthwindContext.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAtAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-15T12:14:03.974Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-15T12:14:03.974Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\Zeno\\Documents\\GitHub\\CSharp\\CSharp\\D27_RecapProject1\\Form1.cs",
               "RelativeDocumentMoniker": "D27_RecapProject1\\Form1.cs",
-              "ToolTip": "C:\\Users\\Zeno\\Documents\\GitHub\\CSharp\\CSharp\\D27_RecapProject1\\Form1.cs*",
-              "RelativeToolTip": "D27_RecapProject1\\Form1.cs*",
+              "ToolTip": "C:\\Users\\Zeno\\Documents\\GitHub\\CSharp\\CSharp\\D27_RecapProject1\\Form1.cs",
+              "RelativeToolTip": "D27_RecapProject1\\Form1.cs",
               "ViewState": "AQIAAEMAAAAAAAAAAAAUwFgAAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-15T12:07:53.318Z",
