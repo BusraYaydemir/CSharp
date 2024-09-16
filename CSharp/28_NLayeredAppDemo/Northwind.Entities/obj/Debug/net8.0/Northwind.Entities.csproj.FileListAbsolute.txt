@@ -1,0 +1,12 @@
+C:\Users\Zeno\Documents\GitHub\CSharp\CSharp\28_NLayeredAppDemo\Northwind.Entities\bin\Debug\net8.0\Northwind.Entities.deps.json
+C:\Users\Zeno\Documents\GitHub\CSharp\CSharp\28_NLayeredAppDemo\Northwind.Entities\bin\Debug\net8.0\Northwind.Entities.dll
+C:\Users\Zeno\Documents\GitHub\CSharp\CSharp\28_NLayeredAppDemo\Northwind.Entities\bin\Debug\net8.0\Northwind.Entities.pdb
+C:\Users\Zeno\Documents\GitHub\CSharp\CSharp\28_NLayeredAppDemo\Northwind.Entities\obj\Debug\net8.0\Northwind.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zeno\Documents\GitHub\CSharp\CSharp\28_NLayeredAppDemo\Northwind.Entities\obj\Debug\net8.0\Northwind.Entities.AssemblyInfoInputs.cache
+C:\Users\Zeno\Documents\GitHub\CSharp\CSharp\28_NLayeredAppDemo\Northwind.Entities\obj\Debug\net8.0\Northwind.Entities.AssemblyInfo.cs
+C:\Users\Zeno\Documents\GitHub\CSharp\CSharp\28_NLayeredAppDemo\Northwind.Entities\obj\Debug\net8.0\Northwind.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Zeno\Documents\GitHub\CSharp\CSharp\28_NLayeredAppDemo\Northwind.Entities\obj\Debug\net8.0\Northwind.Entities.sourcelink.json
+C:\Users\Zeno\Documents\GitHub\CSharp\CSharp\28_NLayeredAppDemo\Northwind.Entities\obj\Debug\net8.0\Northwind.Entities.dll
+C:\Users\Zeno\Documents\GitHub\CSharp\CSharp\28_NLayeredAppDemo\Northwind.Entities\obj\Debug\net8.0\refint\Northwind.Entities.dll
+C:\Users\Zeno\Documents\GitHub\CSharp\CSharp\28_NLayeredAppDemo\Northwind.Entities\obj\Debug\net8.0\Northwind.Entities.pdb
+C:\Users\Zeno\Documents\GitHub\CSharp\CSharp\28_NLayeredAppDemo\Northwind.Entities\obj\Debug\net8.0\ref\Northwind.Entities.dll
