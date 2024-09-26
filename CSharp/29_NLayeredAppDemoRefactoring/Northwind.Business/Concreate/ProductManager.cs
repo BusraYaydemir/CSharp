@@ -4,6 +4,7 @@ using Northwind.Entities.Concreate;
 using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Linq.Expressions;
 using System.Text;
 using System.Threading.Tasks;
 
@@ -16,18 +17,6 @@ namespace Northwind.Business.Concreate
         public ProductManager(IProductDal productDal)
         {
            _productDal = productDal;
-        }
-
-        public List<Product> GetAll()
-        {
-            // Business Code
-            return _productDal.GetAll();
-        }
-
-        public Product Get(int id)
-        {
-            // Business Code
-            return _productDal.Get(id);
         }
 
         public void Add(Product product)
@@ -46,6 +35,18 @@ namespace Northwind.Business.Concreate
         {
             // Business Code
             _productDal.Delete(product);
+        }
+
+        public List<Product> GetAll(Expression<Func<Product, bool>> filter = null)
+        {
+            // Buisness Code
+            return _productDal.GetAll(filter);
+        }
+
+        public Product Get(Expression<Func<Product, bool>> filter)
+        {
+            // Business Code 
+            return _productDal.Get(filter);
         }
     }
 }

@@ -14,6 +14,7 @@ namespace Northwind.WebFormsUI
         }
 
         IProductService _productService;
+        ICategoryService _categoryService;
 
         private void Form1_Load(object sender, EventArgs e)
         {

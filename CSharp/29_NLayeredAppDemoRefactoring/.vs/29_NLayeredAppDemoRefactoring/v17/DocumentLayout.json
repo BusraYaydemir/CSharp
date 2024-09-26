@@ -3,16 +3,52 @@
   "WorkspaceRootPath": "C:\\Users\\Zeno\\Documents\\GitHub\\CSharp\\CSharp\\29_NLayeredAppDemoRefactoring\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3F0E605E-4B9C-42F4-9640-2CD49401BA45}|Northwind.DataAccess\\Northwind.DataAccess.csproj|c:\\users\\zeno\\documents\\github\\csharp\\csharp\\29_nlayeredappdemorefactoring\\northwind.dataaccess\\concreate\\nhibarnate\\nhproductdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3F0E605E-4B9C-42F4-9640-2CD49401BA45}|Northwind.DataAccess\\Northwind.DataAccess.csproj|solutionrelative:northwind.dataaccess\\concreate\\nhibarnate\\nhproductdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{213BBBD0-2DE4-489E-96C8-6BF83B42C890}|Northwind.Business\\Northwind.Business.csproj|c:\\users\\zeno\\documents\\github\\csharp\\csharp\\29_nlayeredappdemorefactoring\\northwind.business\\abstract\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{213BBBD0-2DE4-489E-96C8-6BF83B42C890}|Northwind.Business\\Northwind.Business.csproj|solutionrelative:northwind.business\\abstract\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3F0E605E-4B9C-42F4-9640-2CD49401BA45}|Northwind.DataAccess\\Northwind.DataAccess.csproj|c:\\users\\zeno\\documents\\github\\csharp\\csharp\\29_nlayeredappdemorefactoring\\northwind.dataaccess\\concreate\\entityfreamwork\\efproductdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3F0E605E-4B9C-42F4-9640-2CD49401BA45}|Northwind.DataAccess\\Northwind.DataAccess.csproj|solutionrelative:northwind.dataaccess\\concreate\\entityfreamwork\\efproductdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3F0E605E-4B9C-42F4-9640-2CD49401BA45}|Northwind.DataAccess\\Northwind.DataAccess.csproj|c:\\users\\zeno\\documents\\github\\csharp\\csharp\\29_nlayeredappdemorefactoring\\northwind.dataaccess\\concreate\\entityfreamwork\\efentityrepositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3F0E605E-4B9C-42F4-9640-2CD49401BA45}|Northwind.DataAccess\\Northwind.DataAccess.csproj|solutionrelative:northwind.dataaccess\\concreate\\entityfreamwork\\efentityrepositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{213BBBD0-2DE4-489E-96C8-6BF83B42C890}|Northwind.Business\\Northwind.Business.csproj|c:\\users\\zeno\\documents\\github\\csharp\\csharp\\29_nlayeredappdemorefactoring\\northwind.business\\abstract\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{213BBBD0-2DE4-489E-96C8-6BF83B42C890}|Northwind.Business\\Northwind.Business.csproj|solutionrelative:northwind.business\\abstract\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F0E605E-4B9C-42F4-9640-2CD49401BA45}|Northwind.DataAccess\\Northwind.DataAccess.csproj|c:\\users\\zeno\\documents\\github\\csharp\\csharp\\29_nlayeredappdemorefactoring\\northwind.dataaccess\\abstract\\iproductdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F0E605E-4B9C-42F4-9640-2CD49401BA45}|Northwind.DataAccess\\Northwind.DataAccess.csproj|solutionrelative:northwind.dataaccess\\abstract\\iproductdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{213BBBD0-2DE4-489E-96C8-6BF83B42C890}|Northwind.Business\\Northwind.Business.csproj|c:\\users\\zeno\\documents\\github\\csharp\\csharp\\29_nlayeredappdemorefactoring\\northwind.business\\concreate\\productmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{213BBBD0-2DE4-489E-96C8-6BF83B42C890}|Northwind.Business\\Northwind.Business.csproj|solutionrelative:northwind.business\\concreate\\productmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F0E605E-4B9C-42F4-9640-2CD49401BA45}|Northwind.DataAccess\\Northwind.DataAccess.csproj|c:\\users\\zeno\\documents\\github\\csharp\\csharp\\29_nlayeredappdemorefactoring\\northwind.dataaccess\\concreate\\entityfreamwork\\efcategorydal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F0E605E-4B9C-42F4-9640-2CD49401BA45}|Northwind.DataAccess\\Northwind.DataAccess.csproj|solutionrelative:northwind.dataaccess\\concreate\\entityfreamwork\\efcategorydal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C123FE27-627A-47EB-9113-46A09DF3EE1B}|Northwind.WebFormsUI\\Northwind.WebFormsUI.csproj|c:\\users\\zeno\\documents\\github\\csharp\\csharp\\29_nlayeredappdemorefactoring\\northwind.webformsui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C123FE27-627A-47EB-9113-46A09DF3EE1B}|Northwind.WebFormsUI\\Northwind.WebFormsUI.csproj|solutionrelative:northwind.webformsui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C123FE27-627A-47EB-9113-46A09DF3EE1B}|Northwind.WebFormsUI\\Northwind.WebFormsUI.csproj|c:\\users\\zeno\\documents\\github\\csharp\\csharp\\29_nlayeredappdemorefactoring\\northwind.webformsui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C123FE27-627A-47EB-9113-46A09DF3EE1B}|Northwind.WebFormsUI\\Northwind.WebFormsUI.csproj|solutionrelative:northwind.webformsui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{213BBBD0-2DE4-489E-96C8-6BF83B42C890}|Northwind.Business\\Northwind.Business.csproj|c:\\users\\zeno\\documents\\github\\csharp\\csharp\\29_nlayeredappdemorefactoring\\northwind.business\\concreate\\categorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{213BBBD0-2DE4-489E-96C8-6BF83B42C890}|Northwind.Business\\Northwind.Business.csproj|solutionrelative:northwind.business\\concreate\\categorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F0E605E-4B9C-42F4-9640-2CD49401BA45}|Northwind.DataAccess\\Northwind.DataAccess.csproj|c:\\users\\zeno\\documents\\github\\csharp\\csharp\\29_nlayeredappdemorefactoring\\northwind.dataaccess\\abstract\\icategorydal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F0E605E-4B9C-42F4-9640-2CD49401BA45}|Northwind.DataAccess\\Northwind.DataAccess.csproj|solutionrelative:northwind.dataaccess\\abstract\\icategorydal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F0E605E-4B9C-42F4-9640-2CD49401BA45}|Northwind.DataAccess\\Northwind.DataAccess.csproj|c:\\users\\zeno\\documents\\github\\csharp\\csharp\\29_nlayeredappdemorefactoring\\northwind.dataaccess\\concreate\\entityfreamwork\\northwindcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F0E605E-4B9C-42F4-9640-2CD49401BA45}|Northwind.DataAccess\\Northwind.DataAccess.csproj|solutionrelative:northwind.dataaccess\\concreate\\entityfreamwork\\northwindcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{812FCD02-BCBD-447B-BC59-1C10C44B3673}|Northwind.Entities\\Northwind.Entities.csproj|c:\\users\\zeno\\documents\\github\\csharp\\csharp\\29_nlayeredappdemorefactoring\\northwind.entities\\concreate\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{812FCD02-BCBD-447B-BC59-1C10C44B3673}|Northwind.Entities\\Northwind.Entities.csproj|solutionrelative:northwind.entities\\concreate\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,19 +58,84 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "NhProductDal.cs",
-              "DocumentMoniker": "C:\\Users\\Zeno\\Documents\\GitHub\\CSharp\\CSharp\\29_NLayeredAppDemoRefactoring\\Northwind.DataAccess\\Concreate\\NHibarnate\\NhProductDal.cs",
-              "RelativeDocumentMoniker": "Northwind.DataAccess\\Concreate\\NHibarnate\\NhProductDal.cs",
-              "ToolTip": "C:\\Users\\Zeno\\Documents\\GitHub\\CSharp\\CSharp\\29_NLayeredAppDemoRefactoring\\Northwind.DataAccess\\Concreate\\NHibarnate\\NhProductDal.cs",
-              "RelativeToolTip": "Northwind.DataAccess\\Concreate\\NHibarnate\\NhProductDal.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAAACgAAAAcAAAA",
+              "DocumentIndex": 3,
+              "Title": "IProductDal.cs",
+              "DocumentMoniker": "C:\\Users\\Zeno\\Documents\\GitHub\\CSharp\\CSharp\\29_NLayeredAppDemoRefactoring\\Northwind.DataAccess\\Abstract\\IProductDal.cs",
+              "RelativeDocumentMoniker": "Northwind.DataAccess\\Abstract\\IProductDal.cs",
+              "ToolTip": "C:\\Users\\Zeno\\Documents\\GitHub\\CSharp\\CSharp\\29_NLayeredAppDemoRefactoring\\Northwind.DataAccess\\Abstract\\IProductDal.cs",
+              "RelativeToolTip": "Northwind.DataAccess\\Abstract\\IProductDal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-16T21:50:29.022Z",
+              "WhenOpened": "2024-09-18T21:33:17.971Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Zeno\\Documents\\GitHub\\CSharp\\CSharp\\29_NLayeredAppDemoRefactoring\\Northwind.WebFormsUI\\Form1.cs",
+              "RelativeDocumentMoniker": "Northwind.WebFormsUI\\Form1.cs",
+              "ToolTip": "C:\\Users\\Zeno\\Documents\\GitHub\\CSharp\\CSharp\\29_NLayeredAppDemoRefactoring\\Northwind.WebFormsUI\\Form1.cs",
+              "RelativeToolTip": "Northwind.WebFormsUI\\Form1.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAASwA0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T21:30:39.538Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductManager.cs",
+              "DocumentMoniker": "C:\\Users\\Zeno\\Documents\\GitHub\\CSharp\\CSharp\\29_NLayeredAppDemoRefactoring\\Northwind.Business\\Concreate\\ProductManager.cs",
+              "RelativeDocumentMoniker": "Northwind.Business\\Concreate\\ProductManager.cs",
+              "ToolTip": "C:\\Users\\Zeno\\Documents\\GitHub\\CSharp\\CSharp\\29_NLayeredAppDemoRefactoring\\Northwind.Business\\Concreate\\ProductManager.cs",
+              "RelativeToolTip": "Northwind.Business\\Concreate\\ProductManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T21:25:28.626Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CategoryManager.cs",
+              "DocumentMoniker": "C:\\Users\\Zeno\\Documents\\GitHub\\CSharp\\CSharp\\29_NLayeredAppDemoRefactoring\\Northwind.Business\\Concreate\\CategoryManager.cs",
+              "RelativeDocumentMoniker": "Northwind.Business\\Concreate\\CategoryManager.cs",
+              "ToolTip": "C:\\Users\\Zeno\\Documents\\GitHub\\CSharp\\CSharp\\29_NLayeredAppDemoRefactoring\\Northwind.Business\\Concreate\\CategoryManager.cs",
+              "RelativeToolTip": "Northwind.Business\\Concreate\\CategoryManager.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAIAxwBcAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T21:28:24.819Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ICategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\Zeno\\Documents\\GitHub\\CSharp\\CSharp\\29_NLayeredAppDemoRefactoring\\Northwind.Business\\Abstract\\ICategoryService.cs",
+              "RelativeDocumentMoniker": "Northwind.Business\\Abstract\\ICategoryService.cs",
+              "ToolTip": "C:\\Users\\Zeno\\Documents\\GitHub\\CSharp\\CSharp\\29_NLayeredAppDemoRefactoring\\Northwind.Business\\Abstract\\ICategoryService.cs",
+              "RelativeToolTip": "Northwind.Business\\Abstract\\ICategoryService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T21:27:40.941Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "C:\\Users\\Zeno\\Documents\\GitHub\\CSharp\\CSharp\\29_NLayeredAppDemoRefactoring\\Northwind.Business\\Abstract\\IProductService.cs",
+              "RelativeDocumentMoniker": "Northwind.Business\\Abstract\\IProductService.cs",
+              "ToolTip": "C:\\Users\\Zeno\\Documents\\GitHub\\CSharp\\CSharp\\29_NLayeredAppDemoRefactoring\\Northwind.Business\\Abstract\\IProductService.cs",
+              "RelativeToolTip": "Northwind.Business\\Abstract\\IProductService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T21:25:03.302Z",
               "EditorCaption": ""
             },
             {
@@ -45,22 +146,35 @@
               "RelativeDocumentMoniker": "Northwind.DataAccess\\Concreate\\EntityFreamwork\\EfProductDal.cs",
               "ToolTip": "C:\\Users\\Zeno\\Documents\\GitHub\\CSharp\\CSharp\\29_NLayeredAppDemoRefactoring\\Northwind.DataAccess\\Concreate\\EntityFreamwork\\EfProductDal.cs",
               "RelativeToolTip": "Northwind.DataAccess\\Concreate\\EntityFreamwork\\EfProductDal.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABSAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-16T21:49:28.494Z",
+              "WhenOpened": "2024-09-18T21:14:18.152Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "EfEntityRepositoryBase.cs",
-              "DocumentMoniker": "C:\\Users\\Zeno\\Documents\\GitHub\\CSharp\\CSharp\\29_NLayeredAppDemoRefactoring\\Northwind.DataAccess\\Concreate\\EntityFreamwork\\EfEntityRepositoryBase.cs",
-              "RelativeDocumentMoniker": "Northwind.DataAccess\\Concreate\\EntityFreamwork\\EfEntityRepositoryBase.cs",
-              "ToolTip": "C:\\Users\\Zeno\\Documents\\GitHub\\CSharp\\CSharp\\29_NLayeredAppDemoRefactoring\\Northwind.DataAccess\\Concreate\\EntityFreamwork\\EfEntityRepositoryBase.cs",
-              "RelativeToolTip": "Northwind.DataAccess\\Concreate\\EntityFreamwork\\EfEntityRepositoryBase.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAADkAAAA6AAAA",
+              "DocumentIndex": 5,
+              "Title": "EfCategoryDal.cs",
+              "DocumentMoniker": "C:\\Users\\Zeno\\Documents\\GitHub\\CSharp\\CSharp\\29_NLayeredAppDemoRefactoring\\Northwind.DataAccess\\Concreate\\EntityFreamwork\\EfCategoryDal.cs",
+              "RelativeDocumentMoniker": "Northwind.DataAccess\\Concreate\\EntityFreamwork\\EfCategoryDal.cs",
+              "ToolTip": "C:\\Users\\Zeno\\Documents\\GitHub\\CSharp\\CSharp\\29_NLayeredAppDemoRefactoring\\Northwind.DataAccess\\Concreate\\EntityFreamwork\\EfCategoryDal.cs",
+              "RelativeToolTip": "Northwind.DataAccess\\Concreate\\EntityFreamwork\\EfCategoryDal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-16T21:35:43.531Z",
+              "WhenOpened": "2024-09-18T21:12:53.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "NorthwindContext.cs",
+              "DocumentMoniker": "C:\\Users\\Zeno\\Documents\\GitHub\\CSharp\\CSharp\\29_NLayeredAppDemoRefactoring\\Northwind.DataAccess\\Concreate\\EntityFreamwork\\NorthwindContext.cs",
+              "RelativeDocumentMoniker": "Northwind.DataAccess\\Concreate\\EntityFreamwork\\NorthwindContext.cs",
+              "ToolTip": "C:\\Users\\Zeno\\Documents\\GitHub\\CSharp\\CSharp\\29_NLayeredAppDemoRefactoring\\Northwind.DataAccess\\Concreate\\EntityFreamwork\\NorthwindContext.cs",
+              "RelativeToolTip": "Northwind.DataAccess\\Concreate\\EntityFreamwork\\NorthwindContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T21:12:07.288Z",
               "EditorCaption": ""
             },
             {
@@ -142,6 +256,44 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Zeno\\Documents\\GitHub\\CSharp\\CSharp\\29_NLayeredAppDemoRefactoring\\Northwind.WebFormsUI\\Form1.cs",
+              "RelativeDocumentMoniker": "Northwind.WebFormsUI\\Form1.cs",
+              "ToolTip": "C:\\Users\\Zeno\\Documents\\GitHub\\CSharp\\CSharp\\29_NLayeredAppDemoRefactoring\\Northwind.WebFormsUI\\Form1.cs [Design]",
+              "RelativeToolTip": "Northwind.WebFormsUI\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T20:59:47.468Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\Zeno\\Documents\\GitHub\\CSharp\\CSharp\\29_NLayeredAppDemoRefactoring\\Northwind.Entities\\Concreate\\Category.cs",
+              "RelativeDocumentMoniker": "Northwind.Entities\\Concreate\\Category.cs",
+              "ToolTip": "C:\\Users\\Zeno\\Documents\\GitHub\\CSharp\\CSharp\\29_NLayeredAppDemoRefactoring\\Northwind.Entities\\Concreate\\Category.cs",
+              "RelativeToolTip": "Northwind.Entities\\Concreate\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T21:11:16.607Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ICategoryDal.cs",
+              "DocumentMoniker": "C:\\Users\\Zeno\\Documents\\GitHub\\CSharp\\CSharp\\29_NLayeredAppDemoRefactoring\\Northwind.DataAccess\\Abstract\\ICategoryDal.cs",
+              "RelativeDocumentMoniker": "Northwind.DataAccess\\Abstract\\ICategoryDal.cs",
+              "ToolTip": "C:\\Users\\Zeno\\Documents\\GitHub\\CSharp\\CSharp\\29_NLayeredAppDemoRefactoring\\Northwind.DataAccess\\Abstract\\ICategoryDal.cs",
+              "RelativeToolTip": "Northwind.DataAccess\\Abstract\\ICategoryDal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T21:09:53.546Z",
+              "EditorCaption": ""
             }
           ]
         }
